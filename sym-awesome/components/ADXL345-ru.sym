@@ -1,0 +1,135 @@
+v 20130925 2
+T 395 3500 8 10 1 1 0 0 1
+refdes=DD?
+T 395 3300 8 10 1 1 0 0 1
+value=ADXL345
+T 4412 5500 8 10 0 0 0 0 1
+device=ADXL345
+P 0 2800 400 2800 1 0 0
+{
+T -600 2800 5 10 0 0 0 0 1
+pintype=pwr
+T -600 2800 5 10 0 0 0 0 1
+pinseq=1
+T 455 2745 9 10 1 1 0 0 1
+pinlabel=VDDIO
+T 305 2845 5 10 1 1 0 6 1
+pinnumber=1
+}
+B 400 0 2200 3200 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+T 4412 5300 8 10 0 0 0 0 1
+package=LGA-CC-14-1
+T 4412 5100 8 10 0 0 0 0 1
+author=UncleRus
+T 4412 4900 8 10 0 0 0 0 1
+description=3-Axis Digital Accelerometer
+P 0 400 400 400 1 0 0
+{
+T -600 400 5 10 0 0 0 0 1
+pintype=pwr
+T -600 400 5 10 0 0 0 0 1
+pinseq=2
+T 455 345 9 10 1 1 0 0 1
+pinlabel=GND
+T 305 445 5 10 1 1 0 6 1
+pinnumber=2
+}
+P 0 1200 400 1200 1 0 0
+{
+T -600 1200 5 10 0 0 0 0 1
+pintype=pwr
+T -600 1200 5 10 0 0 0 0 1
+pinseq=3
+T 455 1145 9 10 1 1 0 0 1
+pinlabel=GND
+T 305 1245 5 10 1 1 0 6 1
+pinnumber=4
+}
+P 0 800 400 800 1 0 0
+{
+T -600 800 5 10 0 0 0 0 1
+pintype=pwr
+T -600 800 5 10 0 0 0 0 1
+pinseq=4
+T 455 745 9 10 1 1 0 0 1
+pinlabel=GND
+T 305 845 5 10 1 1 0 6 1
+pinnumber=5
+}
+P 0 2400 400 2400 1 0 0
+{
+T -600 2400 5 10 0 0 0 0 1
+pintype=pwr
+T -600 2400 5 10 0 0 0 0 1
+pinseq=5
+T 455 2345 9 10 1 1 0 0 1
+pinlabel=VS
+T 305 2445 5 10 1 1 0 6 1
+pinnumber=6
+}
+P 3000 1600 2600 1600 1 0 0
+{
+T 3600 1600 5 10 0 0 0 6 1
+pintype=in
+T 3600 1600 5 10 0 0 0 6 1
+pinseq=6
+T 2545 1545 9 10 1 1 0 6 1
+pinlabel=\_CS\_
+T 2695 1645 5 10 1 1 0 0 1
+pinnumber=7
+}
+P 3000 2800 2600 2800 1 0 0
+{
+T 3600 2800 5 10 0 0 0 6 1
+pintype=out
+T 3600 2800 5 10 0 0 0 6 1
+pinseq=7
+T 2545 2745 9 10 1 1 0 6 1
+pinlabel=INT1
+T 2695 2845 5 10 1 1 0 0 1
+pinnumber=8
+}
+P 3000 2400 2600 2400 1 0 0
+{
+T 3600 2400 5 10 0 0 0 6 1
+pintype=out
+T 3600 2400 5 10 0 0 0 6 1
+pinseq=8
+T 2545 2345 9 10 1 1 0 6 1
+pinlabel=INT2
+T 2695 2445 5 10 1 1 0 0 1
+pinnumber=9
+}
+P 3000 1200 2600 1200 1 0 0
+{
+T 3600 1200 5 10 0 0 0 6 1
+pintype=io
+T 3600 1200 5 10 0 0 0 6 1
+pinseq=9
+T 2545 1145 9 10 1 1 0 6 1
+pinlabel=SDO/ADDR
+T 2695 1245 5 10 1 1 0 0 1
+pinnumber=12
+}
+P 3000 800 2600 800 1 0 0
+{
+T 3600 800 5 10 0 0 0 6 1
+pintype=io
+T 3600 800 5 10 0 0 0 6 1
+pinseq=10
+T 2545 745 9 10 1 1 0 6 1
+pinlabel=SDA/SDI/SDIO
+T 2695 845 5 10 1 1 0 0 1
+pinnumber=13
+}
+P 3000 400 2600 400 1 0 0
+{
+T 3600 400 5 10 0 0 0 6 1
+pintype=io
+T 3600 400 5 10 0 0 0 6 1
+pinseq=11
+T 2545 345 9 10 1 1 0 6 1
+pinlabel=SCL/SCLK
+T 2695 445 5 10 1 1 0 0 1
+pinnumber=14
+}
