@@ -1,0 +1,1 @@
+ATmega8_portC ATmega8_portD ATmega8_pwr ATmega8_ref attiny13-jn AVR_ISP10-1 AVR_ISP6-1 BAT_LIR2032 

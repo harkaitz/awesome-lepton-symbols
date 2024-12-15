@@ -1,0 +1,1 @@
+50Ohm CC-BY-SA current diff_pair memristor nc ntc ptc 

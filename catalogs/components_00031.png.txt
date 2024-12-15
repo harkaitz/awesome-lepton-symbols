@@ -1,0 +1,1 @@
+resistor-1w-ru resistor-2w-ru resistor-5w-ru resistor-ru resistor-variable1-ru resistor-variable2-ru RGBled-ba RN131C-1-cw 

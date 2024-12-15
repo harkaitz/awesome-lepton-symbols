@@ -1,0 +1,1 @@
+HDSM-433x header4-1 header44-2mm-jn HMC5883L-ru ina217-jn IRF1010N IRF9388 ispGAL22V10_PLCC28_np 

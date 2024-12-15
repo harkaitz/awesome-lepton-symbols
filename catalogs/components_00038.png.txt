@@ -1,0 +1,1 @@
+U1096B_pwr UAA170_np UAA170 UAA170_pp UAA170_pwr UCC27xxx-jn uda1345-jn voltage-regulator-ru 

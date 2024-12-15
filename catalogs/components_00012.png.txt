@@ -1,0 +1,1 @@
+battery1-ru battery2-ru BC548 BMA220-cw BMP180-ru BPX85 button-closed-ru button-ru 

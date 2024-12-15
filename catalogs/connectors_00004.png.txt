@@ -1,0 +1,1 @@
+conn-pin-06-ru conn-pin-07-ru conn-pin-08-ru conn-pin-09-ru conn-pin-10-ru conn-pin-40-ru conn-sock-01-ru conn-sock-02-ru 

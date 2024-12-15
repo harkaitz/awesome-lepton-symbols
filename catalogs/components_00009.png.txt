@@ -1,0 +1,1 @@
+ATmega2560-16AU-ru ATmega328-AU_np ATmega328-AU ATmega328-AU_pwr ATmega328-AU_ref ATMega328-cw atmega328-jn atmega328p-jn 

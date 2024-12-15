@@ -1,0 +1,1 @@
+TL431-ru transformer-1-ru transistor-igbt-ru transistor-jfet-n-ru transistor-jfet-p-ru transistor-mosfet-n-ru transistor-mosfet-p-ru transistor-npn-ru 

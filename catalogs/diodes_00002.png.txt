@@ -1,0 +1,1 @@
+schottky-dual-cathode-1 schottky-dual-serial-1 zener_SOT23-2 

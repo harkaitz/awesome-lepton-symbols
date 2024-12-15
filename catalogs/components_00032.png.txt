@@ -1,0 +1,1 @@
+Rotary-Encoder-5Pin-jn rpi-gpio-sa SA56-ba SAA1064-ba screw2-1-cw screw3-1-cw seven-seg-cw spi-flash-8pin 

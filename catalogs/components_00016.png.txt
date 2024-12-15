@@ -1,0 +1,1 @@
+coil3-ru CON_MAINS_SOCKET+SW_DPST crystal2-ru crystal-ru DDC114-1 DDC114-pwr-1 DDC114-pwr-2 DS1307-ru 

@@ -1,0 +1,1 @@
+8V-plus avcc gnd1-ru gnd2-ru ld1117_vreg-2 pwr_Vcc_12_GND_9 pwr_Vcc_14_GND_7 pwr_Vcc_16_GND_8 

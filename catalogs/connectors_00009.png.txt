@@ -1,0 +1,1 @@
+CON-solder-jumper_NO CON-TERM-2p CON-TESTPOINT CON-TP CON-USB-MINI dip40-1 jumper-2-ru jumper-ru 

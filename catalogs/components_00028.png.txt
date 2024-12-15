@@ -1,0 +1,1 @@
+opamp-jn optocoupler1-ru osc-enable-1 oscillator2-ru oscillator-ru PBRC-H-cw PCB_Arduino_R3_Shield PCF8574-ru 

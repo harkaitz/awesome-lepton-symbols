@@ -1,0 +1,1 @@
+RaspberryPi3-ru REF31xx-1 relay1-ru relay_solid-ru resistor-0w05-ru resistor-0w125-ru resistor-0w5-ru resistor-10w-ru 

@@ -90,6 +90,9 @@ edal_catalogs() {
             num=$(( num + 1 ))
             echo "Generating ${oimage} ..."
             montage -annotate +0+10 "%t" ${images} -geometry +10+10 -tile 4x -frame 5 -background white "${oimage}"
+            for img in ${images}; do
+                basename "${img}" .png
+            done | tr '\n' ' ' > "${oimage}.txt"
         done
     done
     
@@ -109,9 +112,18 @@ edal_readme() {
             echo ""
             echo "### ${desc}"
             echo ""
-            for img in $(find "./catalogs" -name "${name}_*.png" | sort); do
-                echo "![${name}](${img})"
+            echo "<table>"
+            find "./catalogs" -name "${name}_*.png" | while read -r png; do
+                cat <<-EOF
+		  <tr>
+		    <th>$(cat "${png}.txt")</th>
+		  </tr>
+		  <tr>
+		    <td><img src="${png}"></td>
+		  </tr>
+		EOF
             done
+            echo "</table>"
         fi >> "${tmp2}"
     done
     sed -i '/\#\# Symbol Catalog/,$d' README.md

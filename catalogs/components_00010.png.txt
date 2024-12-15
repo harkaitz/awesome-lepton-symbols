@@ -1,0 +1,1 @@
+ATmega328p-TQFP32-ru ATmega328-PU ATmega32U2 atmega48_88_168-cw atmega48_88_168_pdip-cw ATmega8_np ATmega8 ATmega8_portB 

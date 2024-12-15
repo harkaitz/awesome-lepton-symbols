@@ -1,0 +1,1 @@
+conn-term-11-ru conn-term-14-ru CON-power-jack_NO CON-SIL-254P-10 CON-SIL-254P-12 CON-SIL-254P-16 CON-SIL-254P-20 CON-SIL-254P-2 
